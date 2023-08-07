@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "21267210591",
+    "project_id": "henam-care-977ff",
+    "storage_bucket": "henam-care-977ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21267210591:android:7e6b30fb3f6d106a2916ea",
+        "android_client_info": {
+          "package_name": "com.henamcleaning.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21267210591-as3ijal82qdtb92nci1u3s7dc989a9b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkzjhxY_XeqX0GnAL2AFwVuCPwX6u9Y_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21267210591-as3ijal82qdtb92nci1u3s7dc989a9b3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
